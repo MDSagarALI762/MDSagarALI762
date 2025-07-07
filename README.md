@@ -12,7 +12,7 @@
 - 🎯 I specialize in converting **Figma designs into fully functional frontend websites**
 - 🧩 I use **React.js + Tailwind CSS** for building modern, scalable UIs
 - 📱 100% responsive design for mobile, tablet & desktop
-- 🌐 Live Demo: [Landing Page](https://683eb83fb2895c5fc4064482--jovial-druid-dabeec.netlify.app/)
+- 🌐 Live Demo: [Landing Page](https://jovial-druid-dabeec.netlify.app/)
 - 💬 Ask me about: `Figma to Code`, `React Components`, `Tailwind UI`
 
 ---
@@ -33,7 +33,7 @@
 
 | 🖼️ Design Preview | 🔗 Live Website |
 |------------------|----------------|
-| Hero, About, Services | [Landing Page](https://683eb83fb2895c5fc4064482--jovial-druid-dabeec.netlify.app/) |
+| Hero, About, Services | [Landing Page](https://jovial-druid-dabeec.netlify.app/) |
 
 ---
 
